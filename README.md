@@ -9,9 +9,7 @@ This project is about creating your personal web portfolio which would include c
 
 
 ## Your Task
-* Design an attractive website with consistent theme across the entire website. Design a simple interface for your personal portfolio. 
-* For a responsive website carefully work for flexible layouts, images and videos, and typography.
-* Your dynamic website must contain the following elements in minimum
+Design an attractive website with consistent theme across the entire website. Design a simple interface for your personal portfolio.For a responsive website carefully work for flexible layouts, images and videos, and typography.Your dynamic website must contain the following elements in minimum
 * Navigation Bar
 * Home Page/Landing Page with Navigation links
 * Text without spelling and grammar errors
