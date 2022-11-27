@@ -25,7 +25,7 @@ You can use relevant images, textual information, videos, or audio files.
 In this step, you’ll create your Python environment and install Flask using the pip package installer.
 ### Step3: Creating a base application 
 Now once the environment is set-up, you will make the web application using a python file.
-A sample python file that will handle HTTP requests. 
+A sample python file that will handle HTTP requests is provided. 
 
 ### Step 4: Create HTML, CSS, and Virtual Environment
 Web applications mainly use HTML to display information, so you’ll now work on incorporating HTML files in your app, which can be displayed on the web browser
