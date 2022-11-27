@@ -4,6 +4,8 @@ This project is about creating your personal web portfolio which would include c
 * It should contain a page which talks about you, a contact page where people can contact you, your testimonials, and details of skills you acquired during this course and projects you made during the course. Please include your social media accounts links on your portfolio site as well.
 * The website needs to look clean and visually appealing. Make sure you follow best practices of the web design. So, your portfolio needs to represent you in a good way. 
 * A simple home page could look like this. But you may apply your creativity to design your own.
+![image](https://user-images.githubusercontent.com/118975186/204162146-5eb33fc2-cdbf-4e24-b283-a92df87e955b.png)
+
 
 
 ## Your Task
