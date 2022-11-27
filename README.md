@@ -25,15 +25,15 @@ You can use relevant images, textual information, videos, or audio files.
 In this step, you’ll create your Python environment and install Flask using the pip package installer.
 ### Step3: Creating a base application 
 Now once the environment is set-up, you will make the web application using a python file.
-A sample python file that will handle HTTP requests is provided. 
+A sample python file that will handle HTTP requests. 
 
 ### Step 4: Create HTML, CSS, and Virtual Environment
-Web applications mainly use HTML to display information, so you’ll now work on incorporating HTML files in your app, which can be displayed on the web browser
-The files may be structured like - Flask/Templates/<HTML files>
-You may create a new HTML file as home.html.
-Further add more pages inside the templates folder, as per the web portfolio you plan to design.
-To connect all pages you may have a navigation pane on your home page.
-Create a CSS folder to store your stylesheets, JavaScript, images, and other necessary files. 
+* Web applications mainly use HTML to display information, so you’ll now work on incorporating HTML files in your app, which can be displayed on the web browser
+* The files may be structured like - Flask/Templates/<HTML files>
+* You may create a new HTML file as home.html.
+* Further add more pages inside the templates folder, as per the web portfolio you plan to design.
+* To connect all pages you may have a navigation pane on your home page.
+* Create a CSS folder to store your stylesheets, JavaScript, images, and other necessary files. 
 ### Step 5: Moving forward with Flask and virtual environment
 Use virtualenv to create an isolated environment for your Python project and activate virtual environment.
 
