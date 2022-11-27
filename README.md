@@ -19,7 +19,7 @@ This project is about creating your personal web portfolio which would include c
  
 ## Starter Code
 There are (mostly) empty files Home.html, About.html, ContactUs.html, Project.html, template.html style.css, and script.js and main.py wired together for you to begin your project. You can add other necessary files and images. All images that are visible on the site must be saved in the images folder and linked from there in your files carefully.
-###Step1: Collection of necessary contents.
+### Step1: Collection of necessary contents.
 You can use relevant images, textual information, videos, or audio files. 
 ### Step2: Installing Flask 
 In this step, you’ll create your Python environment and install Flask using the pip package installer.
